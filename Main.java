@@ -7,3 +7,6 @@ fsdsfsfddssfdsfsdfsfsfdsdf ffffffffffffffffffffffffffd88888888888888888888888888
 
  git config --global user.email "you@example.com"
  git config --global user.name "Your Name"
+
+ 
+ git remote add origin https://github.com/LeonidLS/26092019.git
